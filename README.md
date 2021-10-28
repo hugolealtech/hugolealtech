@@ -8,14 +8,23 @@
 - 📫 Contate-me no E-mail: hugolealtech@gmail.com
 - ⚡ Fun fact: Essa é minha segunda graduação. Antes de programador eu também sou advogado previdenciário kkk.
 -->
-![image](https://user-images.githubusercontent.com/76668742/139331266-18898ec2-24ed-40cf-ba97-08653217b685.png)    
+<div>
+<a href="https:github.com/hugolealtech">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=hugolealtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolealtech&layout=compact&langs_count=16&theme=tokyonight"/>
+
+</div>
   
-  <div style="display:inline_block"><br>
-    
-   <img align="center" height"1" width="3" src="https://raw.githubsercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-
-   
-    
-  </div>
+  <div style="display: inline_block"> <br>
+      <img align="center" alt="Hugo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+   </div>
+  
+  
   
