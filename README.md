@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, eu sou o Hugo Leal! 👋
 
-<!--
-**hugolealtech/hugolealtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente trabalho com HTML5 e CSS3, Javascript, PHP e SQL no IESB.
+- 🌱 Atualmente estou aprendendo Python e Java
+- 👯 Estou buscando colaborar com projetos que envolvam não só essas ferramentas, como outras também.
+- 📫 Contate-me no E-mail: hugolealtech@gmail.com
+- ⚡ Fun fact: Essa é minha segunda graduação. Antes de programador eu também sou advogado previdenciário kkk.
 -->
+![image](https://user-images.githubusercontent.com/76668742/139331266-18898ec2-24ed-40cf-ba97-08653217b685.png)    
+  
+  <div style="display:inline_block"><br>
+    
+   <img align="center" height"1" width="3" src="https://raw.githubsercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+
+   
+    
+  </div>
+  
