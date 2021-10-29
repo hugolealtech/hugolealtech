@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou aprendendo Python e Java
 - 👯 Estou buscando colaborar com projetos que envolvam não só essas ferramentas, como outras também.
 - 📫 Contate-me no E-mail: hugolealtech@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Comecei estudando Python pelo Youtube. Um ano depois, cá estou eu!
 
 <div>
 <a href="https:github.com/hugolealtech">
