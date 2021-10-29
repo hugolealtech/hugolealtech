@@ -23,19 +23,20 @@
       <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
       <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
       <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
-      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />*
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+      <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>*
    
 
    </div>
-  
+##  
 <div style="display: inline_block" align="center"> <br>
     
    <div> 
 
-        # REDES SOCIAS
+ # REDES SOCIAS
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCJFdVbOPjqsmHlP77lZQ2_w)](https://www.youtube.com/channel/UCJFdVbOPjqsmHlP77lZQ2_w)
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hugolealtech)](https://github.com/hugolealtech)
