@@ -7,17 +7,15 @@
 - 👯 Estou buscando colaborar com projetos que envolvam não só essas ferramentas, como outras também.
 - 📫 Contate-me no E-mail: hugolealtech@gmail.com
 - ⚡ Fun fact: Essa é minha segunda graduação. Antes de programador eu também sou advogado previdenciário kkk.
--->
+- 
 <div>
 <a href="https:github.com/hugolealtech">
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=hugolealtech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolealtech&layout=compact&langs_count=16&theme=tokyonight"/>
 
-  
- 
+   
 </div>
   
-
 
 <div style="display: inline_block"> <br>
    <p align="center">LINGUAGENS ESTUDADAS</p>
@@ -36,12 +34,18 @@
    
   # REDES SOCIAS
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCJFdVbOPjqsmHlP77lZQ2_w)](https://www.youtube.com/channel/UCJFdVbOPjqsmHlP77lZQ2_w)
+  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hugolealtech)](https://github.com/hugolealtech)
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugolealtech/)](https://www.linkedin.com/in/hugoleal/?originalSubdomain=br)
+  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hugolealtech)](https://twitter.com/hugolealtech)
 
+  <a href="https://www.instagram.com/huguitar22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   </div>
-
-  
+ 
+  ![Snake animation](https://github.com/hugolealtech/hugolealtech/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
   
