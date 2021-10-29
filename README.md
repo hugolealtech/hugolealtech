@@ -14,12 +14,14 @@
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolealtech&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
    
-
-<p align="center" style="strong">MY SKILLS</p>
+<div>
+   <h2 text align="center">MY SKILLS</h2>
+</div>   
+   
 <div style="display: inline_block" align="center">
 
-   <BR>
-   <BR>
+   
+   
    <BR>
       <img align="center" alt="Hugo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -32,13 +34,18 @@
       <img align="center" alt="Hugo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
    
 
-  ### REDES SOCIAIS E CONTATOS    
+      
    </div>
+      
+#
+<div>
+   <h2 text align="center">REDES SOCIAIS E CONTATOS</h2>
+</div>   
 
 <div style="display: inline_block" align="center"> <br>
     
-   <div syle="display:inline_block" align="center"> 
-
+<a href = "mailto:hugolealtech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCJFdVbOPjqsmHlP77lZQ2_w)](https://www.youtube.com/channel/UCJFdVbOPjqsmHlP77lZQ2_w)
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hugolealtech)](https://github.com/hugolealtech)
@@ -50,7 +57,6 @@
   <a href="https://www.instagram.com/huguitar22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   </div>
 
-  <a href = "mailto:hugolealtech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/hugolealtech/hugolealtech/blob/output/github-contribution-grid-snake.svg)
  
