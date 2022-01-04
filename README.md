@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalho com HTML5 e CSS3, Javascript, PHP e SQL no IESB.
-- 🌱 Atualmente estou aprendendo Python e Java
+- 🌱 Atualmente estou aprendendo Python, Java, NodeJs, React Native, Ruby...
 - 👯 Estou buscando colaborar com projetos que envolvam não só essas ferramentas, como outras também.
 - 📫 Contate-me no E-mail: hugolealtech@gmail.com
 - ⚡ Fun fact: Comecei estudando Python pelo Youtube. Um ano depois, cá estou eu!
