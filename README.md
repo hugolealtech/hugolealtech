@@ -9,9 +9,6 @@
 - ⚡ E ainda que distribuísse toda a minha fortuna para sustento dos pobres, e ainda, que entregasse o meu corpo para ser queimado, e não tivesse amor, 
      nada disso me aproveitaria. (1 Coríntios 13:3).
 
-Source: https://bible.knowing-jesus.com/Portuguese/search?q=meu+corpo+para+ser+queimado&translation=all
-
-Source: https://bible.knowing-jesus.com/Portuguese/search?q=meu+corpo+para+ser+queimado&translation=all
 
 <div>
 <a href="https:github.com/hugolealtech">
