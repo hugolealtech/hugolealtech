@@ -7,7 +7,7 @@
 - 👯 Estou buscando colaborar com projetos que envolvam não só essas ferramentas, como outras também.
 - 📫 Contate-me no E-mail: hugolealtech@gmail.com
 - ⚡ E ainda que distribuísse toda a minha fortuna para sustento dos pobres, e ainda, que entregasse o meu corpo para ser queimado, e não tivesse amor, 
-     nada disso me aproveitaria. (1 Coríntios 13:3).
+     nada disso me aproveitaria (1 Coríntios 13:3).
 
 
 <div>
