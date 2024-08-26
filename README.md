@@ -71,24 +71,14 @@
   <a href="https://www.instagram.com/huguitar22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   </div>
 
-  <div>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3af5c1b5dcff2d60f53022b2f25f484db643fb61e42cf8e60e9a4dc7b28729a2/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/3af5c1b5dcff2d60f53022b2f25f484db643fb61e42cf8e60e9a4dc7b28729a2/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966" data-canonical-src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-     
-   <div style="display: inline_block" align="center"
-</div> 
+   <div style="display: inline_block" align="center"</div> 
         
 <br>
   <div>
        <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
 
-  <div>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3af5c1b5dcff2d60f53022b2f25f484db643fb61e42cf8e60e9a4dc7b28729a2/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/3af5c1b5dcff2d60f53022b2f25f484db643fb61e42cf8e60e9a4dc7b28729a2/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303432392e676966" data-canonical-src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-     
-   <div style="display: inline_block" align="center"
-</div>  
+   <div style="display: inline_block" align="center"</div>  
 <br>
  
   ![Snake animation](https://github.com/hugolealtech/hugolealtech/blob/output/github-contribution-grid-snake.svg)
