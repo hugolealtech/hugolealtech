@@ -1,7 +1,3 @@
-<div>
-    
-</div>
-
 # Olá, eu sou o Hugo Leal! 👋
 
 
